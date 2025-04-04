@@ -21,9 +21,9 @@
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
+<h3>🚀 About Me</h3>
 
-<p align="center">
+<p>
 I'm a <strong>frontend developer</strong> with 4+ years of experience, specializing in <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>Web3</strong> applications.<br>
 I build fast, interactive, and scalable web solutions with a strong focus on <strong>performance</strong> and <strong>user experience</strong>.
 </p>
@@ -38,7 +38,7 @@ I build fast, interactive, and scalable web solutions with a strong focus on <st
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 >🛠️ Tech Stack</h3>
 
 <ul>
   <li>✅ <strong>Frontend</strong>: React.js, Next.js, Vue.js, TypeScript</li>
@@ -51,7 +51,7 @@ I build fast, interactive, and scalable web solutions with a strong focus on <st
 
 ---
 
-<h3 align="center">📫 Contact Me</h3>
+<h3>📫 Contact Me</h3>
 
 <p align="center">
 📩 Email: abishlimurad@gmail.com <br>
