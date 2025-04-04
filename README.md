@@ -13,43 +13,57 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 </p>
 
 ---
 
-### 🚀 About Me
-I'm a **frontend developer** with 4+ years of experience, specializing in **React.js**, **Next.js**, and **Web3** applications.  
-I build fast, interactive, and scalable web solutions with a strong focus on **performance** and **user experience**.
+<h3 align="center">🚀 About Me</h3>
 
-- 🏗️ **Frontend Expertise**: React, Next.js, Vue.js, Zustand, Redux  
-- ⚡ **Performance Optimization**: Lighthouse audits, lazy loading, code splitting  
-- 🎨 **UI/UX**: Tailwind CSS, Material UI, Styled Components  
-- 🌍 **Web3 Development**: MetaMask integration, Wagmi, Web3 React  
-- 🤝 **Collaboration**: Worked with designers, backend devs, and product managers in **agile** teams  
+<p align="center">
+I'm a <strong>frontend developer</strong> with 4+ years of experience, specializing in <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>Web3</strong> applications.<br>
+I build fast, interactive, and scalable web solutions with a strong focus on <strong>performance</strong> and <strong>user experience</strong>.
+</p>
 
----
-
-### 🛠️ Tech Stack  
-✅ **Frontend**: React.js, Next.js, Vue.js, TypeScript  
-✅ **State Management**: Zustand, Redux  
-✅ **Styling**: Tailwind CSS, Bootstrap, Material UI, Styled Components  
-✅ **Backend**: Express.js, REST API, WebSockets  
-✅ **Web3**: Wagmi, Web3 React, MetaMask Integration  
-✅ **Tools**: Jira, Google Analytics, Vercel, GitHub, GitLab  
+<ul>
+  <li>🏗️ <strong>Frontend Expertise</strong>: React, Next.js, Vue.js, Zustand, Redux</li>
+  <li>⚡ <strong>Performance Optimization</strong>: Lighthouse audits, lazy loading, code splitting</li>
+  <li>🎨 <strong>UI/UX</strong>: Tailwind CSS, Material UI, Styled Components</li>
+  <li>🌍 <strong>Web3 Development</strong>: MetaMask integration, Wagmi, Web3 React</li>
+  <li>🤝 <strong>Collaboration</strong>: Worked with designers, backend devs, and product managers in <strong>agile</strong> teams</li>
+</ul>
 
 ---
 
-### 📫 Contact Me  
-📩 Email: abishlimurad@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/murad-abyshly-872359228/)  
-💬 [Telegram](https://t.me/Murad643)  
-🚀 [Portfolio](http://voltum.tech/)  
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<ul>
+  <li>✅ <strong>Frontend</strong>: React.js, Next.js, Vue.js, TypeScript</li>
+  <li>✅ <strong>State Management</strong>: Zustand, Redux</li>
+  <li>✅ <strong>Styling</strong>: Tailwind CSS, Bootstrap, Material UI, Styled Components</li>
+  <li>✅ <strong>Backend</strong>: Express.js, REST API, WebSockets</li>
+  <li>✅ <strong>Web3</strong>: Wagmi, Web3 React, MetaMask Integration</li>
+  <li>✅ <strong>Tools</strong>: Jira, Google Analytics, Vercel, GitHub, GitLab</li>
+</ul>
 
 ---
 
-### ⚡ Fun Fact  
-I developed real-time multiplayer games handling **thousands of users** with WebSockets!  
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+📩 Email: abishlimurad@gmail.com <br>
+💼 <a href="https://www.linkedin.com/in/murad-abyshly-872359228/">LinkedIn</a> <br>
+💬 <a href="https://t.me/Murad643">Telegram</a> <br>
+🚀 <a href="http://voltum.tech/">Portfolio</a>
+</p>
+
+---
+
+<h3 align="center">⚡ Fun Fact</h3>
+
+<p align="center">
+I developed real-time multiplayer games handling <strong>thousands of users</strong> with WebSockets!
+</p>
