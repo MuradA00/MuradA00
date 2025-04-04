@@ -1,3 +1,5 @@
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" height="200" />
+
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Murad</h1>
 <h3 align="center">Frontend Developer | React | Next.js | Web3</h3>
@@ -57,12 +59,4 @@ I build fast, interactive, and scalable web solutions with a strong focus on <st
 📩 Email: abishlimurad@gmail.com <br>
 💼 <a href="https://www.linkedin.com/in/murad-abyshly-872359228/">LinkedIn</a> <br>
 💬 <a href="https://t.me/Murad643">Telegram</a> <br>
-</p>
-
----
-
-<h3 >⚡ Fun Fact</h3>
-
-<p align="center">
-I developed real-time multiplayer games handling <strong>thousands of users</strong> with WebSockets!
 </p>
