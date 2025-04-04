@@ -1,4 +1,4 @@
-  <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" height="200" />
+  <img align="center" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" height="400" />
 
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Murad</h1>
