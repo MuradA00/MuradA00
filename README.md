@@ -53,16 +53,15 @@ I build fast, interactive, and scalable web solutions with a strong focus on <st
 
 <h3>📫 Contact Me</h3>
 
-<p align="center">
+<p>
 📩 Email: abishlimurad@gmail.com <br>
 💼 <a href="https://www.linkedin.com/in/murad-abyshly-872359228/">LinkedIn</a> <br>
 💬 <a href="https://t.me/Murad643">Telegram</a> <br>
-🚀 <a href="http://voltum.tech/">Portfolio</a>
 </p>
 
 ---
 
-<h3 align="center">⚡ Fun Fact</h3>
+<h3 >⚡ Fun Fact</h3>
 
 <p align="center">
 I developed real-time multiplayer games handling <strong>thousands of users</strong> with WebSockets!
