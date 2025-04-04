@@ -1,4 +1,4 @@
-  <p align="center"><img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" height="400" /></p>
+  <p align="center"><img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" height="240" /></p>
 
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Murad</h1>
